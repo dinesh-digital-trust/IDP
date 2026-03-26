@@ -1340,7 +1340,7 @@
       },
       "MimeKit": {
         "type": "Transitive",
-        "resolved": "4.7.1",
+        "resolved": "4.15.1",
         "contentHash": "Qoj4aVvhX14A1FNvaJ33hzOP4VZI2j+Mr38I9wSGcjMq4BYDtWLJG89aJ9nRW2cNfH6Czjwyp7+Mh++xv3AZvg==",
         "dependencies": {
           "BouncyCastle.Cryptography": "2.4.0",
